@@ -2,6 +2,7 @@
 Final Year Project on Computational Theory
 
 # Countdown Game
+![count down](./images/countdown.png)
 
 ## About this Project
 This project is aimed at solving the number round of the popular TV program Countdown. As part of the requirement for the award of Degree in 
@@ -9,6 +10,7 @@ Software Development this project was purposed to ensure that computing students
 life, define common models of computation, design computer programs using various variety of computational paradigms and analyze the complexity
 of an algorithm. 
 
+The functional programming concepts were utilized to implement the solution presented in this project. 
 ## Use of this Project
 
 This project presents a naive solution to the Countdown game, by iteratively trying out every possible solution starting from trying out a 
